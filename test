@@ -1,0 +1,4 @@
+echo  "Welcome to Jenkins and git together"
+ls
+sudo service jenkins status 
+uptime
